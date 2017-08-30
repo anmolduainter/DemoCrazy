@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/48829ca00fb4f24f0038565f103273674e42fb46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_882e830b43cd8fe2c43b5d92cb30893775f24717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/0a5450079aeaf75ed67e23c3ad5159a9d0cf04f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a73b24a82e860ae409181afee75925a04a03aed3">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_e2224ab7536dc5d29bb828a087b32beb181c136d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/6e47df03f382bdc0d41af506a2fd14f9efb1d675/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_567e76713c04a5e1a93c59b110eb44f1bf3a428b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/d5b135a4c105ccc3577deb1311cc6e92f83d172c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_ab32e8ea4519d83d11af3e77145f17c76097ef33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/6452a94609832213264f472d42e5f839a91772d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="254c6e49fb9d776a8c29f05bffa89b5fbe0e8e04">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_87232405d8ad1c9b09a61accafb8be503c80f6f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/72a051dccbdccd107c26e8d623c273f3e7e050f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_54aba554d6e28e1fcd0fade1a88903b2a63a0cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/7765fe59c5f88ae17567f2807b29a99b5fbcd535/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_e66a99eab189a195f5ed62c9d49c4b608ea3853b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/5341e364f88b300406931d41958d3039bd81fdb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_20ad34bffd07fa259bc27fd92e1a728d7221c0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/50a21ea8437fa680e84dd71748e46a371341abd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1acfba708364fb5bdb0ad5910d1ca8bb1125f645">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_8e135260f81bceb0c1fac67405fc6c5a22121234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/0d22da6ed48b175c1c3d27b74feac403ade7d77c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_cc45137f014d62ecea2514f64f484b2f5a19b965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/7765fe59c5f88ae17567f2807b29a99b5fbcd535/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7c686432445f29eeffe7fbdfc1fb3d4b72c558a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_3c694dc1a8fc474c60ab306a5b7a5a2a0ab3aa06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/a574e15b70c6e77486848335f01ab59a1c6c93fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_10e955fd96a2770ff95009c8574a9f04985040cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/a574e15b70c6e77486848335f01ab59a1c6c93fb/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_479f7ddf03d706f40c09b5f4c0bac24bbe2dcb1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/5eb08e817076a858fe804f8960f8636479303fd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_2cf3f093cf37deeabd04e4ae5c552fcdaf7f6be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/441051130645953abaae4e8eb12ff50097b68dff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_0e744909ee33335b5c75ad8e85b41c6a8194c6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/d2d37114f31de7a95d0deab8fd60d138d6e68c69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_f00d8693a19124f583f5a5b21e9798f8774374c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/b64f974e7ab005151466eea6d986ee987ff3ab1f/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_dc28f07ec19521cc62ec2007a1c7ded35c8f3c57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/glide-3.7.0_e8b84b0f720a5ed30c65782301eda4d133ea65d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/b64f974e7ab005151466eea6d986ee987ff3ab1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_d4903669848ab525a1fad7e8c77e4c946da5487e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/04a890c262957a262e93b6f7adc1a1bb9dce086b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_e5e550c2f574ee5a2261aea8d5c8b77bdae76db7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/AndroidStudio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_f1a3223612904acc2813d305bc83101e16be067b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_8987cd99ee766157413aa168c2a8f278685fb0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/d852dc70d567822eaffba0148b38a0a03e06d90b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_d39484222fa3f20b06ecd7a308b5ca9546338357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/61515352c346d50f473c8780b4a3ce73c8d347d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_d2704764ab843830d07e891bcea9afc086ca36a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/a7c4fd9a3ff67f0643186f36ef74be3e0b58e776/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_03ef12d013c34b42cd53ac4961202b1e09870db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/00e62ad5616f84f3e674c01c21d98a05c784797c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8eb9843e89ea821886a28d660a1916d49149415">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/classes_79e1536cb2ca0e16d34fa47d18bd51ab3f03bfc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_5b46e6a561e2fa40e61559f94b3e31d0c32d91ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anmol/.android/build-cache/61515352c346d50f473c8780b4a3ce73c8d347d8/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/anmol/AndroidStudio/AndroidStudioProjects/DemoCrazy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_514ed1a6d19c2d24ce975354440b1d28a83b92ab.jar" />
+    </item>
+
+</items>
